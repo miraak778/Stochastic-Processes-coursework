@@ -6,4 +6,4 @@ For part-1, we plot the positions of the particle vs the number of steps taken b
 
 for part-2, we look at the distribution of final positions and observe that it resembles a normal distribution, which verifies for us the central limit theorem.
 
-to run the code, just run the .exe file and then the .gp files to generate the output .png files
+to run the code, just run the .exe file and then the .bat file to generate the output .png files
